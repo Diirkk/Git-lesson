@@ -1,0 +1,4 @@
+- go shopping
+- finish OIST application
+- Numerosity program
+- ConFace project
